@@ -1,0 +1,20 @@
+MSW summary
+
+This database should catalog photos of snow leopards with searchable tags. These photos should dynamically load in a big tiled body as a user scrolls down the page. A floating header with the search bar  and link to tags page should follow the user down the page as they scroll. Hovering over the photos should show their tags, and clicking on them should pop up a thing with the image link and share buttons. Clicking the link to the tags page should take the user to a page with each tag displayed over a random photo with that tag. Clicking that tag photo should take the user to a page displaying all of the photos with that tag.
+
+MSW goals
+
+-admins should be able to add new photos 
+-admins should be able to edit photo tags on existing photos
+
+MSW features
+
+users
+  -load more photo tiles as they scroll down the page
+  -hover over a photo to view the tags
+  -click a photo to bring up the direct link and share buttons
+  -utilize a search bar for finding photos by tag
+
+admins
+  -add and edit photos
+  -add and edit photo tags
